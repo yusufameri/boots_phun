@@ -1,6 +1,7 @@
 .customDiv {
-  min-height: 300px;
+  margin: 10px;
+  min-height: 50px;
   background-color: silver;
-  margin-bottom: 10px;
+  font-size: large;
   text-align: center;
 }
